@@ -2384,39 +2384,70 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2022,5,F4,61,2,Duke,77,8,North Carolina,81,15,19
 2022,5,F4,62,1,Kansas,81,2,Villanova,65,49,47
 2022,6,Champ,63,1,Kansas,72,8,North Carolina,69,49,19
-2023,0,PI,-4,16,Texas A&M Corpus Chris,75,16,Southeast Missouri St.,71,18,65
-2023,0,PI,-3,11,Mississippi St.,59,11,Pittsburgh,60,10,65
-2023,0,PI,-2,16,Texas Southern,61,16,Fairleigh Dickinson,84,2,65
-2023,0,PI,-1,11,Arizona St.,98,11,Nevada,73,26,65
-2023,1,NW,1,1,Alabama,72,16,Texas A&M Corpus Chris,72,1,2
-2023,1,NW,2,8,Maryland,72,9,West Virginia,72,3,4
-2023,1,NW,3,5,San Diego St.,72,12,Charleston,72,5,6
-2023,1,NW,4,4,Virginia,72,13,Furman,72,7,8
-2023,1,NW,5,6,Creighton,72,11,North Carolina St.,72,9,10
-2023,1,NW,6,3,Baylor,72,14,UC Santa Barbara,72,11,12
-2023,1,NW,7,7,Missouri,72,10,Utah St.,72,13,14
-2023,1,NW,8,2,Arizona,72,15,Princeton,72,15,16
-2023,1,SW,9,1,Purdue,72,16,Fairleigh Dickinson,72,17,18
-2023,1,SW,10,8,Memphis,72,9,Florida Atlantic,72,19,20
-2023,1,SW,11,5,Duke,72,12,Oral Roberts,72,21,22
-2023,1,SW,12,4,Tennessee,72,13,Louisiana,72,23,24
-2023,1,SW,13,6,Kentucky,72,11,Providence,72,25,26
-2023,1,SW,14,3,Kansas St.,72,14,Montana St.,72,27,28
-2023,1,SW,15,7,Michigan St.,72,10,USC,72,29,30
-2023,1,SW,16,2,Marquette,72,15,Vermont,72,31,32
-2023,1,NE,17,1,Houston,72,16,Northern Kentucky,72,33,34
-2023,1,NE,18,8,Iowa,72,9,Auburn,72,35,36
-2023,1,NE,19,5,Miami FL,72,12,Drake,72,37,38
-2023,1,NE,20,4,Indiana,72,13,Kent St.,72,39,40
-2023,1,NE,21,6,Iowa St.,72,11,Pittsburgh,72,41,42
-2023,1,NE,22,3,Xavier,72,14,Kennesaw St.,72,43,44
-2023,1,NE,23,7,Texas A&M,72,10,Penn St.,72,45,46
-2023,1,NE,24,2,Texas,72,15,Colgate,72,47,48
-2023,1,SE,25,1,Kansas,72,16,Howard,72,49,50
-2023,1,SE,26,8,Arkansas,72,9,Illinois,72,51,52
-2023,1,SE,27,5,Saint Mary's,72,12,VCU,72,53,54
-2023,1,SE,28,4,Connecticut,72,13,Iona,72,55,56
-2023,1,SE,29,6,TCU,72,11,Arizona St.,72,57,58
-2023,1,SE,30,3,Gonzaga,72,14,Grand Canyon,72,59,60
-2023,1,SE,31,7,Northwestern,72,10,Boise St.,72,61,62
-2023,1,SE,32,2,UCLA,72,15,UNC Asheville,72,63,64
+2023,0,PI,-4,16,Texas A&M Corpus Chris,75,16,Southeast Missouri St.,71,2,65
+2023,0,PI,-3,11,Mississippi St.,59,11,Pittsburgh,60,65,42
+2023,0,PI,-2,16,Texas Southern,61,16,Fairleigh Dickinson,84,65,18
+2023,0,PI,-1,11,Arizona St.,98,11,Nevada,73,58,65
+2023,1,NW,1,1,Alabama,96,16,Texas A&M Corpus Chris,75,1,2
+2023,1,NW,2,8,Maryland,67,9,West Virginia,65,3,4
+2023,1,NW,3,5,San Diego St.,63,12,Charleston,57,5,6
+2023,1,NW,4,4,Virginia,67,13,Furman,68,7,8
+2023,1,NW,5,6,Creighton,72,11,North Carolina St.,63,9,10
+2023,1,NW,6,3,Baylor,74,14,UC Santa Barbara,56,11,12
+2023,1,NW,7,7,Missouri,76,10,Utah St.,65,13,14
+2023,1,NW,8,2,Arizona,55,15,Princeton,59,15,16
+2023,1,SW,9,1,Purdue,58,16,Fairleigh Dickinson,63,17,18
+2023,1,SW,10,8,Memphis,65,9,Florida Atlantic,66,19,20
+2023,1,SW,11,5,Duke,74,12,Oral Roberts,51,21,22
+2023,1,SW,12,4,Tennessee,58,13,Louisiana,55,23,24
+2023,1,SW,13,6,Kentucky,61,11,Providence,53,25,26
+2023,1,SW,14,3,Kansas St.,77,14,Montana St.,65,27,28
+2023,1,SW,15,7,Michigan St.,72,10,USC,62,29,30
+2023,1,SW,16,2,Marquette,78,15,Vermont,61,31,32
+2023,1,NE,17,1,Houston,63,16,Northern Kentucky,52,33,34
+2023,1,NE,18,8,Iowa,75,9,Auburn,83,35,36
+2023,1,NE,19,5,Miami FL,63,12,Drake,56,37,38
+2023,1,NE,20,4,Indiana,71,13,Kent St.,60,39,40
+2023,1,NE,21,6,Iowa St.,41,11,Pittsburgh,59,41,42
+2023,1,NE,22,3,Xavier,72,14,Kennesaw St.,67,43,44
+2023,1,NE,23,7,Texas A&M,59,10,Penn St.,76,45,46
+2023,1,NE,24,2,Texas,81,15,Colgate,61,47,48
+2023,1,SE,25,1,Kansas,96,16,Howard,68,49,50
+2023,1,SE,26,8,Arkansas,73,9,Illinois,63,51,52
+2023,1,SE,27,5,Saint Mary's,63,12,VCU,51,53,54
+2023,1,SE,28,4,Connecticut,87,13,Iona,63,55,56
+2023,1,SE,29,6,TCU,72,11,Arizona St.,70,57,58
+2023,1,SE,30,3,Gonzaga,82,14,Grand Canyon,70,59,60
+2023,1,SE,31,7,Northwestern,75,10,Boise St.,67,61,62
+2023,1,SE,32,2,UCLA,86,15,UNC Asheville,53,63,64
+2023,2,NW,33,1,Alabama,73,8,Maryland,51,1,3
+2023,2,NW,34,5,San Diego St.,75,13,Furman,52,5,8
+2023,2,NW,35,3,Baylor,76,6,Creighton,85,11,9
+2023,2,NW,36,7,Missouri,63,15,Princeton,78,13,16
+2023,2,SW,37,9,Florida Atlantic,78,9,Fairleigh Dickinson,70,20,18
+2023,2,SW,38,4,Tennessee,65,5,Duke,52,23,21
+2023,2,SW,39,3,Kansas St.,75,6,Kentucky,69,27,25
+2023,2,SW,40,2,Marquette,60,7,Michigan St.,69,31,29
+2023,2,NE,41,1,Houston,81,9,Auburn,64,33,36
+2023,2,NE,42,4,Indiana,69,5,Miami FL,85,39,37
+2023,2,NE,43,3,Xavier,84,11,Pittsburgh,73,43,42
+2023,2,NE,44,2,Texas,71,10,Penn St.,66,47,46
+2023,2,SE,45,1,Kansas,71,8,Arkansas,72,49,51
+2023,2,SE,46,4,Connecticut,70,5,Saint Mary's,55,55,53
+2023,2,SE,47,3,Gonzaga,84,6,TCU,81,59,57
+2023,2,SE,48,2,UCLA,68,7,Northwestern,63,63,61
+2023,3,NW,49,1,Alabama,64,5,San Diego St.,71,1,5
+2023,3,NW,50,6,Creighton,86,15,Princeton,75,9,16
+2023,3,SW,51,4,Tennessee,55,9,Florida Atlantic,62,23,20
+2023,3,SW,52,3,Kansas St.,93,7,Michigan St.,93,27,29
+2023,3,NE,53,1,Houston,75,5,Miami FL,89,33,37
+2023,3,NE,54,2,Texas,83,3,Xavier,71,47,43
+2023,3,SE,55,4,Connecticut,88,8,Arkansas,65,55,51
+2023,3,SE,56,2,UCLA,76,3,Gonzaga,79,63,59
+2023,4,NW,57,5,San Diego St.,57,6,Creighton,56,5,9
+2023,4,SW,58,3,Kansas St.,76,9,Florida Atlantic,79,27,20
+2023,4,NE,59,2,Texas,81,5,Miami FL,88,47,37
+2023,4,SE,60,3,Gonzaga,54,4,Connecticut,82,59,55
+2023,5,F4,61,5,San Diego St.,,9,Florida Atlantic,,5,20
+2023,5,F4,62,4,Connecticut,,5,Miami FL,,55,37
+2023,6,Champ,63,,,,,,,,
