@@ -2448,6 +2448,6 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2023,4,SW,58,3,Kansas St.,76,9,Florida Atlantic,79,27,20
 2023,4,NE,59,2,Texas,81,5,Miami FL,88,47,37
 2023,4,SE,60,3,Gonzaga,54,4,Connecticut,82,59,55
-2023,5,F4,61,5,San Diego St.,,9,Florida Atlantic,,5,20
-2023,5,F4,62,4,Connecticut,,5,Miami FL,,55,37
-2023,6,Champ,63,,,,,,,,
+2023,5,F4,61,5,San Diego St.,77,9,Florida Atlantic,76,5,20
+2023,5,F4,62,4,Connecticut,77,5,Miami FL,76,55,37
+2023,6,Champ,63,4,Connecticut,77,5,San Diego St.,76,55,5
