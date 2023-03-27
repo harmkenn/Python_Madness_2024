@@ -2424,7 +2424,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2023,2,NW,34,5,San Diego St.,75,13,Furman,52,5,8
 2023,2,NW,35,3,Baylor,76,6,Creighton,85,11,9
 2023,2,NW,36,7,Missouri,63,15,Princeton,78,13,16
-2023,2,SW,37,9,Florida Atlantic,78,9,Fairleigh Dickinson,70,20,18
+2023,2,SW,37,9,Florida Atlantic,78,16,Fairleigh Dickinson,70,20,18
 2023,2,SW,38,4,Tennessee,65,5,Duke,52,23,21
 2023,2,SW,39,3,Kansas St.,75,6,Kentucky,69,27,25
 2023,2,SW,40,2,Marquette,60,7,Michigan St.,69,31,29
@@ -2448,6 +2448,6 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2023,4,SW,58,3,Kansas St.,76,9,Florida Atlantic,79,27,20
 2023,4,NE,59,2,Texas,81,5,Miami FL,88,47,37
 2023,4,SE,60,3,Gonzaga,54,4,Connecticut,82,59,55
-2023,5,F4,61,5,San Diego St.,77,9,Florida Atlantic,76,5,20
-2023,5,F4,62,4,Connecticut,77,5,Miami FL,76,55,37
-2023,6,Champ,63,4,Connecticut,77,5,San Diego St.,76,55,5
+2023,5,F4,61,5,San Diego St.,,9,Florida Atlantic,,5,20
+2023,5,F4,62,4,Connecticut,,5,Miami FL,,55,37
+2023,6,Champ,63,,,,,,,,
