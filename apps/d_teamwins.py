@@ -11,14 +11,14 @@ def app():
     
     for year in champs['Year']:
         if champs.loc[year,'AFScore'] > champs.loc[year,'AUScore']:
-            champs.loc[year,'Champ'] = champs.loc[year,'AFTeam']
+            champs.loc[year,6] = champs.loc[year,'AFTeam']
         else:
-            champs.loc[year,'Champ'] = champs.loc[year,'AUTeam']
+            champs.loc[year,6] = champs.loc[year,'AUTeam']
     
     # table of wins
     fw = pd.crosstab(index=AG['AFTeam'],columns=AG['Year'])
     uw = pd.crosstab(index=AG['AUTeam'],columns=AG['Year'])
-    chw = pd.crosstab(index=champs['Champ'],columns=champs['Year'])
+    chw = pd.crosstab(index=champs[6],columns=champs['Year'])
 
     cw = fw.add(uw, fill_value=0).fillna(0).astype(int) - 1
     cw = cw.add(chw, fill_value=0).fillna(0).astype(int)
