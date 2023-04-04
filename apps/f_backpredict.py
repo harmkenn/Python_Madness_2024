@@ -10,7 +10,7 @@ def app():
     FUP = pd.read_csv('notebooks/step04_FUHistory.csv').fillna(0)
     FUP = FUP[FUP['Game']>=1]
     FUP['Round'] = FUP['Round'].astype('int32')
-    p_year = st.slider('Year: ', 2008,2022)
+    p_year = st.slider('Year: ', 2008,2023)
     if p_year == 2020:
         st.markdown("No Bracket in 2020")
     if p_year != 2020:

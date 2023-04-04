@@ -9,7 +9,7 @@ def app():
     st.markdown('Use Linear Regression to do a Full Bracket Prediction')
     
     fup = pd.read_csv("notebooks/step04_FUStats.csv").fillna(0)
-    fup = fup[fup['Year']<=2022][fup['Game']>=1]
+    fup = fup[fup['Year']<=2023][fup['Game']>=1]
     fup['Round'] = fup['Round'].astype('int32')
     fup['PFSeed']=fup['AFSeed']
     fup['PFTeam']=fup['AFTeam']

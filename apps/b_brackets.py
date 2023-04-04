@@ -7,7 +7,7 @@ def app():
     # title of the app
     st.markdown('All Tournament Brackets Since 1985')
     AG = pd.read_csv('notebooks/step04_FUHistory.csv')
-    p_year = st.slider('Year: ', 1985,2022)
+    p_year = st.slider('Year: ', 1985,2023)
     if p_year == 2020:
         st.markdown("No Bracket in 2020")
     if p_year != 2020:
