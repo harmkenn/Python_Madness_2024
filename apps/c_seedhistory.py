@@ -9,7 +9,7 @@ def app():
     df.insert(loc= 0 , column= 'Seed', value= np.arange(1,17))
               
     #st.dataframe(df, height=600)
-    styler = df.style.hide_index()
+    styler = df.style.hide()
 
     st.write(styler.to_html(), unsafe_allow_html=True)
 
