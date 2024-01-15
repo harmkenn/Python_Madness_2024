@@ -19,7 +19,7 @@ def app():
     fup['PUScore']=fup['AUScore']
     
      
-    py = st.slider('Year: ', 2008,2022)
+    py = st.slider('Year: ', 2008,2023)
     if py == 2020:
         st.markdown("No Bracket in 2020")
     if py != 2020:
@@ -171,6 +171,7 @@ def app():
             BB.loc[x,'ESPN'] = np.where(BB.loc[x,'AWTeam']==BB.loc[x,'PWTeam'],320,0)
          
         st.write(BB['ESPN'].sum(skipna=True))
+        BB['Year'] = BB['Year'].astype('str')
         st.dataframe(BB,height=500)
         
         

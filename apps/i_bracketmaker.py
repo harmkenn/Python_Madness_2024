@@ -168,6 +168,7 @@ def app():
         BB['PUSeed'] = BB['PUSeed'].astype(int)
         BB['PWSeed'] = BB['PWSeed'].astype(int)
        
-    BB['Year'] = BB['Year'].replace(',','', regex=True)
+    BB['Year'] = BB['Year'].astype('str')
     st.dataframe(BB[BB['Game']<=63],height=500)
+    
     

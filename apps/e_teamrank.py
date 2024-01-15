@@ -13,5 +13,5 @@ def app():
         TRP = TRP[TRP['Team'].str.contains(team)]
     
     TRP.round(decimals=2)
-             
+    TRP['Year'] = TRP['Year'].astype('str')         
     st.dataframe(TRP)

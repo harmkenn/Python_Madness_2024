@@ -53,4 +53,5 @@ def app():
         TESPN = FUT['ESPN'].sum()
         
         st.markdown('Total ESPN Score: '+str(TESPN))
+        FUT['Year'] = FUT['Year'].astype('str')
         st.dataframe(FUT)
