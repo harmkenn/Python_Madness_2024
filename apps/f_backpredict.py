@@ -31,8 +31,8 @@ def app():
         y_test_U = respU[respU['Year'] == p_year]['AUScore'].to_numpy()
         
         # Make Model
-        from sklearn.tree import DecisionTreeRegressor
-        model = DecisionTreeRegressor()
+        from sklearn.linear_model import LinearRegression
+        model = LinearRegression()
         model.fit(X_train,y_train_F)
         y_pred_F = model.predict(X_test)
         model.fit(X_train,y_train_U)
