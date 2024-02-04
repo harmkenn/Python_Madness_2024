@@ -31,12 +31,12 @@ def app():
         y_test_U = respU[respU['Year'] == p_year]['AUScore'].to_numpy()
         
         # Make Model
-        from sklearn.linear_model import ElasticNet
-        enet = ElasticNet(alpha=.2,l1_ratio=.5)
-        enet.fit(X_train,y_train_F)
-        y_pred_F = enet.predict(X_test)
-        enet.fit(X_train,y_train_U)
-        y_pred_U = enet.predict(X_test)
+        from sklearn.tree import DecisionTreeRegressor
+        model = DecisionTreeRegressor()
+        model.fit(X_train,y_train_F)
+        y_pred_F = model.predict(X_test)
+        model.fit(X_train,y_train_U)
+        y_pred_U = model.predict(X_test)
         
         # How did the model do
         FUT = FUP[FUP['Year']==p_year]

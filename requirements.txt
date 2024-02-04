@@ -9,3 +9,4 @@ bs4
 html-table-parser-python3
 lxml
 selenium
+

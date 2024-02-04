@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn.linear_model import LinearRegression
-from sklearn.linear_model import ElasticNet
+from sklearn.tree import DecisionTreeRegressor
 import numpy as np
 
 def app():
@@ -25,14 +24,14 @@ def app():
     if py != 2020:
         # Build the linear model
         fupn = fup.select_dtypes(exclude=['object'])
-        MX = fupn[fupn['Year']!=py].drop(['AFScore','AUScore','AFSeed','AUSeed','PFScore','PUScore','Fti','Uti'],axis=1)
+        MX = fupn[fupn['Year']!=py].drop(['AFScore','AUScore','PFScore','PUScore','Fti','Uti'],axis=1)
         xcol = MX.columns
         
         MFY = fupn[fupn['Year']!=py]['PFScore']
         MUY = fupn[fupn['Year']!=py]['PUScore']
-        LRF = LinearRegression()
+        LRF = DecisionTreeRegressor()
         LRF.fit(MX,MFY)
-        RFU = LinearRegression()
+        RFU = DecisionTreeRegressor()
         RFU.fit(MX,MUY)
         
         BB = fup[fup['Year']==py]
