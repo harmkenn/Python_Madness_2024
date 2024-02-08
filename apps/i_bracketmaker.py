@@ -8,7 +8,7 @@ def app():
     py = 2023
     st.markdown('Predicting ' + str(py))
         
-    fup = pd.read_csv("notebooks/step04_FUStats.csv").fillna(0)
+    fup = pd.read_csv("notebooks/step07_FUStats.csv").fillna(0)
     fup = fup[fup['Game']>=1]
     fup['Round'] = fup['Round'].astype('int32')
     fup['PFSeed']=fup['AFSeed']
