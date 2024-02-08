@@ -7,7 +7,7 @@ import numpy as np
 def app():
     # title of the app
     st.markdown('How the teams have faired since 1985')
-    pase = pd.read_csv('notebooks/step04_PASE.csv')
+    pase = pd.read_csv('notebooks/step05_PASE.csv')
     
 
              

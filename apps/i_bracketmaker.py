@@ -39,7 +39,7 @@ def app():
     BBcol = ['Year','Round','Region','Game','PFSeed','PFTeam','PFScore','PUSeed','PUTeam','PUScore']
     BB.columns = BBcol
 
-    KBBP = pd.read_csv("notebooks/step04_AllStats.csv").fillna(0)
+    KBBP = pd.read_csv("notebooks/step06_AllStats.csv").fillna(0)
     # Predict Round 1
     BBstats = BB.merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
@@ -49,6 +49,8 @@ def app():
     pfs = LRF.predict(r1p[xcol]) + np.random.rand(32)*12-4
     pus = RFU.predict(r1p[xcol]) 
     
+
+
     for x in range(1,33):
         BB.loc[x,'PFScore']=pfs[x-1]
         BB.loc[x,'PUScore']=pus[x-1]

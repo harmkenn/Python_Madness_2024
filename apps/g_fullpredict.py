@@ -8,7 +8,7 @@ def app():
     # title of the app
     st.markdown('Use Linear Regression to do a Full Bracket Prediction')
     
-    fup = pd.read_csv("notebooks/step04_FUStats.csv").fillna(0)
+    fup = pd.read_csv("notebooks/step07_FUStats.csv").fillna(0)
     fup = fup[fup['Year']<=2023][fup['Game']>=1]
     fup['Round'] = fup['Round'].astype('int32')
     fup['PFSeed']=fup['AFSeed']
@@ -45,7 +45,7 @@ def app():
         
         pfs = LRF.predict(r1p[xcol])
         pus = RFU.predict(r1p[xcol])
-        
+
         for x in range(1,33):
             BB.loc[x,'PFSeed']=BB.loc[x,'AFSeed']
             BB.loc[x,'PFTeam']=BB.loc[x,'AFTeam']
@@ -68,7 +68,7 @@ def app():
             BB.loc[x,'AWTeam'] = str(np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFTeam'],BB.loc[x,'AUTeam']))
             
         
-        KBBP = pd.read_csv("notebooks/step04_AllStats.csv").fillna(0)
+        KBBP = pd.read_csv("notebooks/step06_AllStats.csv").fillna(0)
         #Predict Round 2
         BBstats = BB[BB['Round']==2].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
         BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')

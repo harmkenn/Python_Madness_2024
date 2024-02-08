@@ -6,7 +6,7 @@ def app():
     # title of the app
     st.markdown('Team Rankings since 2008')
 
-    TRP=pd.read_csv('notebooks/step04_AllStats.csv') 
+    TRP=pd.read_csv('notebooks/step06_AllStats.csv') 
     
     team = st.text_input("Team: ",'')
     if team != "":
