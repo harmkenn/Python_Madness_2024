@@ -8,6 +8,7 @@ Alabama St. Hornets,Alabama St.
 Alabama-Birmingham,UAB
 Albany (NY),Albany
 Albany Great Danes,Albany
+UAlbany Great Danes,Albany
 Alcorn St. Braves,Alcorn St.
 American University,American
 American University Eagles,American
@@ -56,6 +57,7 @@ Centenary,out
 Centenary (LA),out
 Centenary Louisiana,out
 Centenary Louisiana Gentlemen,out
+Centenary (LA) Gentlemen,out
 Central Arkansas Bears,Central Arkansas
 Central Connecticut Blue Devils,Central Connecticut
 Central Connecticut St.,Central Connecticut
@@ -105,6 +107,7 @@ Elon Phoenix,Elon
 Evansville Purple Aces,Evansville
 Fairfield Stags,Fairfield
 Fairleigh Dickinson Knights,Fairleigh Dickinson
+FDU,Fairleigh Dickinson
 Florida A&M Rattlers,Florida A&M
 Florida Atlantic Owls,Florida Atlantic
 Florida Gators,Florida
@@ -119,7 +122,9 @@ Furman Paladins,Furman
 Gardner-Webb,Gardner Webb
 Gardner-Webb Runnin' Bulldogs,Gardner Webb
 George Mason Patriots,George Mason
+George Washington ,George Washington
 George Washington Colonials,George Washington
+George Washington Revolutionaries,George Washington
 Georgetown Hoyas,Georgetown
 Georgia Bulldogs,Georgia
 Georgia Southern Eagles,Georgia Southern
@@ -131,7 +136,8 @@ Grambling Tigers,Grambling St.
 Grand Canyon Lopes,Grand Canyon
 Green Bay Phoenix,Green Bay
 Hampton Pirates,Hampton
-Hartford Hawks,Hartford
+Hartford,out
+Hartford Hawks,out
 Harvard Crimson,Harvard
 Hawai'i,Hawaii
 Hawai'i Rainbow Warriors,Hawaii
@@ -211,6 +217,7 @@ Miami,Miami FL
 Miami (FL),Miami FL
 Miami (OH),Miami OH
 Miami (OH) Redhawks,Miami OH
+Miami (OH) RedHawks,Miami OH
 Miami Hurricanes,Miami FL
 Michigan St. Spartans,Michigan St.
 Michigan Wolverines,Michigan
@@ -308,7 +315,7 @@ Robert Morris Colonials,Robert Morris
 Rutgers Scarlet Knights,Rutgers
 Sacramento St. Hornets,Sacramento St.
 Sacred Heart Pioneers,Sacred Heart
-Saint Francis (PA),St. Francis PA
+Saint Francis (PA),Saint Francis
 Saint Joseph's Hawks,Saint Joseph's
 Saint Louis Billikens,Saint Louis
 Saint Mary's (CA),Saint Mary's
@@ -337,9 +344,10 @@ SMU Mustangs,SMU
 South Alabama Jaguars,South Alabama
 South Carolina Gamecocks,South Carolina
 South Carolina St. Bulldogs,South Carolina St.
-South Carolina Upstate,USC Upstate
-South Carolina UpSt.,USC Upstate
-South Carolina UpSt. Spartans,USC Upstate
+South Carolina Upstate,out
+South Carolina UpSt.,out
+South Carolina UpSt. Spartans,out
+South Carolina Upstate Spartans,out
 South Dakota Coyotes,South Dakota
 South Dakota St. Jackrabbits,South Dakota St.
 South Florida Bulls,South Florida
@@ -353,17 +361,20 @@ Southern Miss Golden Eagles,Southern Miss
 Southern Mississippi,Southern Miss
 Southern Utah Thunderbirds,Southern Utah
 St. Bonaventure Bonnies,St. Bonaventure
-St. Francis (BKN),St. Francis NY
-St. Francis (NY),St. Francis NY
-St. Francis (PA),St. Francis PA
-St. Francis (PA) Red Flash,St. Francis PA
-St. Francis Brooklyn,St. Francis NY
-St. Francis Brooklyn Terriers,St. Francis NY
+St. Francis (BKN),out
+St. Francis (NY),out
+St. Francis NY,out
+St. Francis (PA),Saint Francis
+St. Francis PA,Saint Francis
+St. Francis (PA) Red Flash,Saint Francis
+St. Francis Brooklyn,out
+St. Francis Brooklyn Terriers,out
 St. John's (NY),St. John's
 St. John's Red Storm,St. John's
 St. Thomas - Minnesota,St. Thomas
 St. Thomas - Minnesota Tommies,St. Thomas
 St. Thomas (MN),St. Thomas
+St. Thomas-Minnesota Tommies,St. Thomas
 Stanford Cardinal,Stanford
 Stephen F. Austin Lumberjacks,Stephen F. Austin
 Stetson Hatters,Stetson
@@ -372,6 +383,7 @@ Stony Brook Seawolves,Stony Brook
 Syracuse Orange,Syracuse
 Tarleton,Tarleton St.
 Tarleton Texans,Tarleton St.
+Tarleton St. Texans,Tarleton St.
 TCU Horned Frogs,TCU
 Temple Owls,Temple
 Tennessee St. Tigers,Tennessee St.
@@ -422,6 +434,7 @@ UL Monroe Warhawks,Louisiana Monroe
 UMass,Massachusetts
 UMass Lowell River Hawks,UMass Lowell
 UMass Minutemen,Massachusetts
+Massachusetts Minutemen,Massachusetts
 UMBC Retrievers,UMBC
 UNC Asheville Bulldogs,UNC Asheville
 UNC Greensboro Spartans,UNC Greensboro
@@ -465,6 +478,7 @@ William & Mary Tribe,William & Mary
 Winston Salem,out
 Winston Salem Rams,out
 Winston Salem St.,out
+Winston-Salem Rams,out
 Winthrop Eagles,Winthrop
 Wisconsin Badgers,Wisconsin
 Wofford Terriers,Wofford

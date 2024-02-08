@@ -384,7 +384,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 1991,1,NW,5,6,New Mexico St.,56,11,Creighton,64,9,10
 1991,1,NW,6,3,Seton Hall,71,14,Pepperdine,51,11,12
 1991,1,NW,7,7,Virginia,48,10,BYU,61,13,14
-1991,1,NW,8,2,Arizona,93,15,St. Francis PA,80,15,16
+1991,1,NW,8,2,Arizona,93,15,Saint Francis,80,15,16
 1991,1,SW,9,1,Ohio St.,97,16,Towson,86,17,18
 1991,1,SW,10,8,Georgia Tech,87,9,DePaul,70,19,20
 1991,1,SW,11,5,Texas,73,12,Saint Peter's,65,21,22
@@ -2270,7 +2270,6 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2021,1,SW,14,3,Texas,52,14,Abilene Christian,53,27,28
 2021,1,SW,15,7,Connecticut,54,10,Maryland,63,29,30
 2021,1,SW,16,2,Alabama,68,15,Iona,55,31,32
-2021,1,NE,17,1,Baylor,79,16,Hartford,55,33,34
 2021,1,NE,18,8,North Carolina,62,9,Wisconsin,85,35,36
 2021,1,NE,19,5,Villanova,73,12,Winthrop,63,37,38
 2021,1,NE,20,4,Purdue,69,13,North Texas,78,39,40
