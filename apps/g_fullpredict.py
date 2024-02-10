@@ -130,8 +130,10 @@ def app():
         for x in range(61,63):
             BB.loc[x,'PFSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
             BB.loc[x,'PUSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
+            if BB.loc[(x-32)*2-1,'PWSeed']==BB.loc[(x-32)*2,'PWSeed']:BB.loc[(x-32)*2-1,'PWSeed'] = BB.loc[(x-32)*2-1,'PWSeed'] - .1 
             BB.loc[x,'PFTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
             BB.loc[x,'PUTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
+            if BB.loc[(x-32)*2-1,'PWSeed'] != int(BB.loc[(x-32)*2-1,'PWSeed']): BB.loc[(x-32)*2-1,'PWSeed'] = BB.loc[(x-32)*2-1,'PWSeed'] + .1 
             BB.loc[x,'AWSeed'] = np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFSeed'],BB.loc[x,'AUSeed'])
             BB.loc[x,'AWTeam'] = str(np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFTeam'],BB.loc[x,'AUTeam']))
         
@@ -151,8 +153,10 @@ def app():
         for x in range(63,64):
             BB.loc[x,'PFSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
             BB.loc[x,'PUSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
+            if BB.loc[(x-32)*2-1,'PWSeed']==BB.loc[(x-32)*2,'PWSeed']:BB.loc[(x-32)*2-1,'PWSeed'] = BB.loc[(x-32)*2-1,'PWSeed'] - .1
             BB.loc[x,'PFTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
             BB.loc[x,'PUTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
+            if BB.loc[(x-32)*2-1,'PWSeed'] != int(BB.loc[(x-32)*2-1,'PWSeed']): BB.loc[(x-32)*2-1,'PWSeed'] = BB.loc[(x-32)*2-1,'PWSeed'] + .1 
             BB.loc[x,'AWSeed'] = np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFSeed'],BB.loc[x,'AUSeed'])
             BB.loc[x,'AWTeam'] = str(np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFTeam'],BB.loc[x,'AUTeam']))
         
