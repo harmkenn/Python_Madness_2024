@@ -5532,363 +5532,363 @@ Year,Team,BPI(O),BPI(D),Conf
 2023,IUPUI,-7.5,-7.7,Horizon
 2023,LIU,-9.4,-6.3,NEC
 2023,Green Bay,-9.6,-7.4,Horizon
-2024,Houston,8.7,13.5,Big 12
-2024,Purdue,12.5,7.1,Big Ten
-2024,Arizona,10.2,7.3,Pac-12
-2024,Auburn,8.8,8.2,SEC
-2024,Alabama,12.6,4.3,SEC
-2024,Connecticut,10.6,6.0,Big East
-2024,Tennessee,7.6,9.0,SEC
-2024,Iowa St.,7.0,9.2,Big 12
-2024,North Carolina,7.7,7.2,ACC
-2024,Marquette,7.9,7.0,Big East
-2024,Creighton,9.8,5.0,Big East
-2024,Illinois,8.4,6.4,Big Ten
-2024,Duke,9.9,4.8,ACC
-2024,Kansas,7.6,6.4,Big 12
-2024,BYU,8.9,5.1,Big 12
-2024,Baylor,11.2,2.7,Big 12
-2024,Wisconsin,8.3,5.2,Big Ten
-2024,Michigan St.,6.0,7.1,Big Ten
-2024,Saint Mary's,4.8,8.2,WCC
-2024,Gonzaga,8.1,4.4,WCC
-2024,Kentucky,9.7,2.3,SEC
-2024,Florida Atlantic,9.2,2.5,American
-2024,Dayton,7.5,4.1,A-10
-2024,Oklahoma,5.9,5.7,Big 12
-2024,TCU,6.4,5.1,Big 12
-2024,Texas,6.6,4.9,Big 12
-2024,Wake Forest,6.9,4.5,ACC
-2024,Florida,7.9,3.2,SEC
+2024,Houston,9.0,13.7,Big 12
+2024,Purdue,12.6,7.1,Big Ten
+2024,Arizona,11.4,7.5,Pac-12
+2024,Connecticut,11.7,6.5,Big East
+2024,Alabama,13.6,4.3,SEC
+2024,Tennessee,8.0,9.3,SEC
+2024,Auburn,8.3,8.5,SEC
+2024,Iowa St.,7.2,9.6,Big 12
+2024,Creighton,10.1,5.6,Big East
+2024,Illinois,9.8,5.7,Big Ten
+2024,Duke,9.7,5.6,ACC
+2024,North Carolina,8.2,6.9,ACC
+2024,Baylor,12.0,2.7,Big 12
+2024,Marquette,7.7,6.6,Big East
+2024,Saint Mary's,5.2,8.9,WCC
+2024,Michigan St.,6.4,7.4,Big Ten
+2024,Kansas,6.4,7.1,Big 12
+2024,BYU,9.0,4.4,Big 12
+2024,Gonzaga,9.4,3.6,WCC
+2024,Wisconsin,7.8,5.0,Big Ten
+2024,Kentucky,9.3,3.0,SEC
+2024,Texas,6.8,5.1,Big 12
+2024,Villanova,5.2,6.6,Big East
+2024,Dayton,7.4,4.4,A-10
+2024,Texas Tech,7.8,4.0,Big 12
+2024,Florida,8.5,3.2,SEC
+2024,Florida Atlantic,9.4,2.4,American
+2024,Clemson,7.7,3.9,ACC
+2024,Wake Forest,6.4,5.1,ACC
+2024,TCU,6.2,5.2,Big 12
 2024,Cincinnati,4.8,6.3,Big 12
-2024,Clemson,7.6,3.5,ACC
-2024,Texas A&M,6.0,5.0,SEC
-2024,Villanova,5.0,5.7,Big East
-2024,Texas Tech,7.5,3.1,Big 12
-2024,Virginia,1.8,8.6,ACC
-2024,St. John's,5.8,4.5,Big East
-2024,San Diego St.,4.1,5.9,Mountain West
-2024,Indiana St.,7.7,2.3,MVC
-2024,Mississippi St.,3.3,6.6,SEC
-2024,Xavier,4.1,5.7,Big East
-2024,New Mexico,4.4,5.2,Mountain West
-2024,Virginia Tech,5.6,3.7,ACC
-2024,Providence,2.1,7.2,Big East
-2024,Northwestern,6.6,2.5,Big Ten
-2024,Utah,4.8,4.4,Pac-12
-2024,Pittsburgh,4.3,4.6,ACC
-2024,Iowa,7.5,1.3,Big Ten
-2024,James Madison,4.3,4.3,Sun Belt
-2024,SMU,3.0,5.5,American
-2024,Washington St.,4.6,3.8,Pac-12
-2024,South Carolina,3.6,4.8,SEC
-2024,Miami FL,5.9,2.4,ACC
-2024,Princeton,6.7,1.6,Ivy
-2024,Colorado,5.4,2.8,Pac-12
-2024,UCF,0.3,7.8,Big 12
-2024,Kansas St.,1.8,6.3,Big 12
-2024,Nebraska,5.1,3.0,Big Ten
-2024,Grand Canyon,4.5,3.4,WAC
-2024,San Francisco,3.9,4.0,WCC
-2024,Boise St.,4.3,3.6,Mountain West
-2024,Drake,5.3,2.6,MVC
-2024,Yale,4.2,3.6,Ivy
-2024,Oregon,5.8,2.1,Pac-12
-2024,Washington,5.6,2.2,Pac-12
-2024,Utah St.,4.7,3.0,Mountain West
-2024,Nevada,3.7,4.0,Mountain West
-2024,Butler,5.0,2.7,Big East
-2024,Maryland,0.3,7.4,Big Ten
-2024,McNeese St.,5.1,2.5,Southland
-2024,Ohio St.,5.8,1.7,Big Ten
-2024,Colorado St.,6.7,0.6,Mountain West
-2024,Seton Hall,3.3,4.0,Big East
-2024,St. Bonaventure,4.4,2.6,A-10
-2024,North Carolina St.,3.4,3.6,ACC
-2024,Mississippi,5.3,1.7,SEC
-2024,Richmond,2.1,4.7,A-10
-2024,Louisiana Tech,2.1,4.7,CUSA
-2024,Bradley,4.2,2.5,MVC
-2024,UC Irvine,1.6,5.0,Big West
-2024,Memphis,3.6,3.1,American
-2024,Akron,2.8,3.8,MAC
-2024,Florida St.,2.0,4.5,ACC
-2024,LSU,3.5,3.0,SEC
-2024,UNLV,4.5,1.9,Mountain West
-2024,Appalachian St.,0.8,5.6,Sun Belt
-2024,Georgia,2.3,4.0,SEC
-2024,VCU,2.0,4.2,A-10
-2024,Liberty,4.6,1.5,CUSA
-2024,Saint Joseph's,4.1,1.9,A-10
-2024,Minnesota,2.1,3.9,Big Ten
-2024,Vermont,3.5,2.5,Am. East
-2024,USC,3.4,2.2,Pac-12
-2024,Drexel,1.6,4.1,CAA
-2024,Stanford,4.1,1.4,Pac-12
-2024,Morehead St.,2.3,3.2,OVC
-2024,Massachusetts,3.8,1.7,A-10
-2024,North Texas,1.0,4.4,American
-2024,Rutgers,-3.3,8.7,Big Ten
-2024,Boston College,4.1,1.2,ACC
-2024,Samford,4.3,0.8,Southern
-2024,Indiana,2.6,2.4,Big Ten
-2024,Charlotte,2.5,2.4,American
-2024,Cornell,5.5,-0.6,Ivy
-2024,UNC Wilmington,5.3,-0.5,CAA
-2024,Penn St.,3.0,1.7,Big Ten
-2024,Michigan,4.7,0.0,Big Ten
-2024,Syracuse,1.1,3.6,ACC
-2024,Colgate,2.0,2.2,Patriot
-2024,UCLA,-0.6,4.7,Pac-12
-2024,George Mason,2.2,1.9,A-10
-2024,Southern Illinois,2.2,1.7,MVC
-2024,Duquesne,0.4,3.5,A-10
+2024,Texas A&M,6.5,4.4,SEC
+2024,San Diego St.,3.8,7.0,Mountain West
+2024,Oklahoma,5.1,5.5,Big 12
+2024,St. John's,6.1,4.4,Big East
+2024,Mississippi St.,3.4,7.0,SEC
+2024,Pittsburgh,5.5,4.7,ACC
+2024,Virginia,1.9,8.2,ACC
+2024,Washington St.,4.6,4.9,Pac-12
+2024,Xavier,3.9,5.5,Big East
+2024,Northwestern,6.1,2.9,Big Ten
+2024,McNeese St.,5.3,3.8,Southland
+2024,Providence,2.1,6.9,Big East
+2024,New Mexico,4.5,4.5,Mountain West
+2024,James Madison,4.8,4.2,Sun Belt
+2024,Indiana St.,6.7,2.2,MVC
+2024,Nebraska,4.9,3.9,Big Ten
+2024,SMU,3.4,5.3,American
+2024,Virginia Tech,6.1,2.6,ACC
+2024,Utah,4.4,4.4,Pac-12
+2024,Princeton,7.2,1.3,Ivy
+2024,UCF,0.9,7.5,Big 12
+2024,Iowa,8.0,0.4,Big Ten
+2024,San Francisco,4.2,4.0,WCC
+2024,Maryland,0.9,7.4,Big Ten
+2024,Drake,5.4,2.7,MVC
+2024,Kansas St.,1.7,6.5,Big 12
+2024,Miami FL,5.5,2.5,ACC
+2024,Washington,5.0,2.9,Pac-12
+2024,Utah St.,4.6,3.3,Mountain West
+2024,Boise St.,4.6,3.2,Mountain West
+2024,Nevada,4.0,3.9,Mountain West
+2024,Grand Canyon,4.6,3.3,WAC
+2024,Colorado,5.8,2.0,Pac-12
+2024,Yale,4.3,3.4,Ivy
+2024,South Carolina,3.6,4.1,SEC
+2024,Colorado St.,5.7,2.0,Mountain West
+2024,Oregon,5.0,2.6,Pac-12
+2024,Ohio St.,5.5,2.1,Big Ten
+2024,North Carolina St.,3.8,3.6,ACC
+2024,Butler,4.4,2.8,Big East
+2024,Seton Hall,3.4,3.7,Big East
+2024,Richmond,2.2,4.7,A-10
+2024,St. Bonaventure,4.9,2.0,A-10
+2024,Mississippi,4.8,2.0,SEC
+2024,LSU,4.0,2.8,SEC
+2024,UNLV,4.8,1.9,Mountain West
+2024,Appalachian St.,1.2,5.5,Sun Belt
+2024,VCU,2.0,4.6,A-10
+2024,Bradley,4.0,2.5,MVC
+2024,Louisiana Tech,1.5,4.9,CUSA
+2024,Rutgers,-3.1,9.6,Big Ten
+2024,Memphis,3.5,2.9,American
+2024,UC Irvine,1.9,4.4,Big West
+2024,Samford,5.1,1.3,Southern
+2024,Florida St.,2.5,3.8,ACC
+2024,Liberty,4.5,1.8,CUSA
+2024,Minnesota,2.9,3.4,Big Ten
+2024,Georgia,2.5,3.6,SEC
+2024,Akron,2.4,3.6,MAC
+2024,Vermont,2.8,3.2,Am. East
+2024,North Texas,1.6,4.3,American
+2024,Stanford,4.0,1.7,Pac-12
+2024,UNC Wilmington,5.7,-0.1,CAA
+2024,Boston College,4.6,1.0,ACC
+2024,Massachusetts,3.9,1.6,A-10
+2024,Saint Joseph's,3.2,2.1,A-10
+2024,Indiana,2.3,2.7,Big Ten
+2024,USC,2.8,2.2,Pac-12
+2024,Cornell,5.6,-0.6,Ivy
+2024,Morehead St.,2.4,2.5,OVC
+2024,Charlotte,2.6,2.2,American
+2024,Syracuse,1.2,3.7,ACC
+2024,Penn St.,2.8,2.1,Big Ten
+2024,George Mason,2.4,2.3,A-10
+2024,UCLA,-0.5,5.2,Pac-12
+2024,Colgate,1.5,3.1,Patriot
+2024,Drexel,1.7,3.0,CAA
+2024,Duquesne,0.5,3.9,A-10
+2024,South Florida,1.6,2.5,American
+2024,Hofstra,2.6,1.5,CAA
+2024,Loyola Chicago,0.2,3.8,A-10
+2024,High Point,6.4,-2.5,Big South
 2024,Seattle,0.3,3.5,WAC
-2024,Eastern Washington,2.8,1.0,Big Sky
-2024,Loyola Chicago,0.1,3.4,A-10
-2024,High Point,6.1,-2.6,Big South
-2024,South Florida,1.6,1.8,American
-2024,UMass Lowell,1.1,2.2,Am. East
-2024,Toledo,5.0,-1.7,MAC
-2024,Youngstown St.,2.0,1.2,Horizon
-2024,Arkansas,1.2,2.0,SEC
-2024,Tulane,3.8,-0.7,American
-2024,Oklahoma St.,0.5,2.6,Big 12
-2024,Charleston,3.6,-0.6,CAA
-2024,Hofstra,2.0,1.0,CAA
-2024,California,1.9,1.0,Pac-12
-2024,Winthrop,2.0,0.7,Big South
-2024,Missouri,2.2,0.5,SEC
-2024,UC San Diego,3.3,-0.7,Big West
-2024,UNC Greensboro,2.7,-0.0,Southern
-2024,Troy,0.3,2.2,Sun Belt
-2024,Towson,0.1,2.3,CAA
-2024,Delaware,1.9,0.5,CAA
-2024,Santa Clara,2.5,-0.4,WCC
-2024,Ohio,2.6,-0.6,MAC
-2024,Northern Iowa,1.7,0.3,MVC
-2024,Wichita St.,-0.1,2.0,American
-2024,St. Thomas,2.3,-0.4,Summit
-2024,West Virginia,0.6,1.3,Big 12
-2024,Georgia Tech,1.1,0.7,ACC
-2024,Weber St.,1.5,0.3,Big Sky
-2024,Arizona St.,-1.6,3.3,Pac-12
-2024,Oakland,2.8,-1.1,Horizon
-2024,UAB,2.1,-0.4,American
-2024,Davidson,1.2,0.5,A-10
-2024,Murray St.,1.0,0.5,MVC
-2024,Chattanooga,1.8,-0.4,Southern
-2024,UNC Asheville,2.1,-0.7,Big South
-2024,Louisiana,0.7,0.6,Sun Belt
-2024,Western Carolina,0.7,0.5,Southern
-2024,Quinnipiac,0.2,0.9,MAAC
-2024,Missouri St.,-0.8,1.9,MVC
-2024,Iona,1.0,-0.0,MAAC
-2024,Stephen F. Austin,-1.2,2.2,WAC
-2024,Purdue Fort Wayne,-0.3,1.2,Horizon
-2024,Kent St.,1.2,-0.4,MAC
-2024,Lipscomb,3.5,-2.9,ASUN
-2024,New Hampshire,-1.4,1.9,Am. East
-2024,Bryant,-1.6,2.1,Am. East
-2024,Wright St.,5.8,-5.3,Horizon
-2024,Penn,2.1,-1.9,Ivy
-2024,Stetson,3.4,-3.4,ASUN
-2024,Arkansas St.,2.9,-3.0,Sun Belt
-2024,Loyola Marymount,1.8,-1.9,WCC
-2024,Columbia,0.6,-0.7,Ivy
-2024,Eastern Kentucky,1.5,-1.7,ASUN
-2024,Longwood,-1.1,0.9,Big South
-2024,Long Beach St.,0.6,-0.8,Big West
-2024,Fairfield,0.6,-0.9,MAAC
-2024,Notre Dame,-4.4,4.1,ACC
-2024,Western Kentucky,-1.8,1.4,CUSA
-2024,Jacksonville St.,-1.9,1.4,CUSA
-2024,UC Santa Barbara,1.8,-2.4,Big West
-2024,Texas A&M Corpus Chris,-3.4,2.7,Southland
-2024,Cleveland St.,1.2,-1.8,Horizon
-2024,UT Arlington,-1.6,0.9,WAC
-2024,South Dakota St.,1.3,-2.1,Summit
-2024,Radford,0.1,-1.0,Big South
-2024,UC Davis,-3.3,2.4,Big West
-2024,Georgia St.,0.4,-1.3,Sun Belt
-2024,Georgetown,1.6,-2.5,Big East
-2024,Belmont,0.8,-1.8,MVC
-2024,Tarleton St.,-1.2,0.3,WAC
-2024,Furman,0.6,-1.6,Southern
-2024,Monmouth,-0.0,-1.1,CAA
-2024,East Carolina,-1.6,0.4,American
-2024,Stony Brook,-0.8,-0.5,CAA
-2024,Tulsa,-2.2,0.9,American
-2024,Maine,-2.8,1.5,Am. East
-2024,Norfolk St.,-1.0,-0.6,MEAC
-2024,Illinois Chicago,-3.4,1.8,MVC
-2024,Gardner Webb,-1.9,0.3,Big South
-2024,Bowling Green,-1.3,-0.3,MAC
-2024,Fordham,-3.4,1.8,A-10
-2024,Rhode Island,0.6,-2.4,A-10
-2024,Marshall,-1.9,0.1,Sun Belt
-2024,Merrimack,-4.8,3.1,NEC
-2024,Oregon St.,-1.1,-0.6,Pac-12
-2024,La Salle,0.1,-1.9,A-10
-2024,Vanderbilt,-1.6,-0.2,SEC
-2024,Cal Baptist,-2.2,0.3,WAC
-2024,North Florida,2.0,-3.9,ASUN
-2024,Sam Houston St.,-3.1,1.1,CUSA
-2024,Rice,0.7,-2.7,American
-2024,Southern,-3.7,1.7,SWAC
-2024,Louisville,0.3,-2.4,ACC
-2024,Austin Peay,-0.4,-1.7,ASUN
-2024,Harvard,-2.3,0.2,Ivy
-2024,Northern Kentucky,-1.9,-0.3,Horizon
-2024,San Jose St.,1.6,-3.8,Mountain West
-2024,Kennesaw St.,-0.8,-1.4,ASUN
-2024,North Carolina Central,-2.8,0.5,MEAC
-2024,Montana,1.1,-3.4,Big Sky
-2024,East Tennessee St.,-3.5,1.0,Southern
-2024,Ball St.,-0.3,-2.2,MAC
-2024,Marist,-4.7,2.2,MAAC
-2024,Mount St. Mary's,-2.5,-0.1,MAAC
-2024,Evansville,-2.8,0.2,MVC
-2024,Fresno St.,-1.0,-1.6,Mountain West
-2024,Central Connecticut,-2.1,-0.6,NEC
-2024,Texas St.,-3.7,1.0,Sun Belt
-2024,George Washington,-1.5,-1.3,A-10
-2024,Brown,-2.6,-0.1,Ivy
-2024,Hawaii,-2.2,-0.6,Big West
-2024,Cal St. Fullerton,-3.1,0.3,Big West
-2024,Oral Roberts,0.7,-3.5,Summit
-2024,Northeastern,0.3,-3.1,CAA
-2024,Temple,-2.6,-0.3,American
-2024,North Alabama,-0.3,-2.7,ASUN
-2024,Saint Louis,0.9,-3.9,A-10
-2024,UTEP,-4.4,1.4,CUSA
-2024,Miami OH,-1.6,-1.5,MAC
-2024,Niagara,0.9,-4.0,MAAC
-2024,Albany,-1.1,-2.1,Am. East
-2024,Abilene Christian,-2.5,-0.8,WAC
-2024,Saint Peter's,-5.6,2.2,MAAC
-2024,Illinois St.,-4.0,0.5,MVC
-2024,Green Bay,-1.7,-1.7,Horizon
-2024,Southern Miss,-3.9,0.5,Sun Belt
-2024,Wofford,1.2,-4.6,Southern
-2024,Rider,-1.6,-1.8,MAAC
-2024,Cal St. Northridge,-4.0,0.4,Big West
-2024,Little Rock,-0.4,-3.2,OVC
-2024,Florida Gulf Coast,0.4,-4.0,ASUN
-2024,Western Illinois,-3.7,0.1,OVC
-2024,Portland St.,-3.8,-0.1,Big Sky
-2024,Lamar,-0.5,-3.4,Southland
-2024,American,1.0,-4.9,Patriot
-2024,North Dakota,-0.7,-3.2,Summit
-2024,Milwaukee,0.4,-4.4,Horizon
-2024,Utah Valley,-4.6,0.6,WAC
-2024,North Dakota St.,0.3,-4.4,Summit
-2024,Queens,-0.3,-3.9,ASUN
-2024,Binghamton,-2.5,-1.7,Am. East
-2024,Canisius,-2.4,-1.9,MAAC
-2024,Old Dominion,-3.2,-1.2,Sun Belt
-2024,Howard,-0.8,-3.6,MEAC
-2024,Nebraska Omaha,-0.6,-3.8,Summit
-2024,Northern Colorado,0.8,-5.3,Big Sky
-2024,Tennessee Martin,-1.8,-2.7,OVC
-2024,UMKC,-3.1,-1.4,Summit
-2024,Pepperdine,-0.9,-3.7,WCC
-2024,FIU,-2.4,-2.3,CUSA
-2024,Robert Morris,-1.5,-3.2,Horizon
-2024,Mercer,-3.8,-1.0,Southern
-2024,Tennessee St.,-3.7,-1.1,OVC
-2024,SIU Edwardsville,-3.2,-1.7,OVC
-2024,Northern Illinois,-1.9,-3.0,MAC
-2024,The Citadel,-2.2,-2.7,Southern
-2024,New Mexico St.,-4.0,-0.9,CUSA
-2024,Chicago St.,-3.9,-1.2,Indep.
-2024,Middle Tennessee,-5.8,0.7,CUSA
-2024,Lehigh,-4.5,-0.6,Patriot
-2024,Jacksonville,-3.5,-1.6,ASUN
-2024,Sacred Heart,-2.4,-2.7,NEC
-2024,Southeastern Louisiana,-2.3,-2.8,Southland
-2024,UC Riverside,-3.2,-2.0,Big West
-2024,Texas Southern,-5.7,0.4,SWAC
-2024,Wagner,-4.7,-0.6,NEC
-2024,Bucknell,-3.1,-2.2,Patriot
-2024,Jackson St.,-3.8,-1.5,SWAC
-2024,Nicholls St.,-2.7,-2.7,Southland
-2024,Cal St. Bakersfield,-4.8,-0.7,Big West
-2024,Central Michigan,-4.8,-0.7,MAC
-2024,Presbyterian,-1.9,-3.8,Big South
-2024,San Diego,-3.7,-2.1,WCC
-2024,Elon,0.2,-6.1,CAA
-2024,UTSA,0.0,-6.0,American
-2024,Western Michigan,-2.3,-3.7,MAC
-2024,Wyoming,-2.1,-4.1,Mountain West
-2024,Southern Utah,-1.6,-4.7,WAC
-2024,Campbell,-4.5,-1.8,CAA
-2024,Navy,-4.7,-1.6,Patriot
-2024,Lafayette,-7.4,0.9,Patriot
-2024,UMBC,-1.2,-5.3,Am. East
-2024,Alabama St.,-7.8,1.2,SWAC
-2024,Sacramento St.,-3.3,-3.3,Big Sky
-2024,Bellarmine,-2.4,-4.4,ASUN
-2024,Denver,0.3,-7.0,Summit
-2024,Georgia Southern,-2.9,-3.9,Sun Belt
-2024,Boston University,-6.5,-0.3,Patriot
-2024,Idaho St.,-3.0,-3.9,Big Sky
-2024,Montana St.,-2.9,-4.0,Big Sky
-2024,DePaul,-3.7,-3.3,Big East
-2024,Valparaiso,-5.1,-1.8,MVC
-2024,South Alabama,-3.0,-4.0,Sun Belt
-2024,Delaware St.,-6.3,-0.8,MEAC
-2024,Fairleigh Dickinson,-2.3,-4.8,NEC
-2024,William & Mary,-2.3,-4.8,CAA
-2024,Eastern Illinois,-6.2,-1.0,OVC
-2024,Louisiana Monroe,-4.0,-3.4,Sun Belt
-2024,Bethune Cookman,-5.4,-2.1,SWAC
-2024,Arkansas Pine Bluff,-0.4,-7.2,SWAC
-2024,Utah Tech,-5.7,-1.9,WAC
-2024,Texas A&M Commerce,-5.8,-2.1,Southland
-2024,Charleston Southern,-3.7,-4.2,Big South
-2024,Coastal Carolina,-2.9,-5.1,Sun Belt
-2024,Grambling St.,-5.1,-2.9,SWAC
-2024,Air Force,-2.8,-5.3,Mountain West
-2024,Army,-7.8,-0.3,Patriot
-2024,UT Rio Grande Valley,-5.6,-2.6,WAC
-2024,NJIT,-4.6,-3.7,Am. East
-2024,Idaho,-3.9,-4.5,Big Sky
-2024,Prairie View A&M,-6.4,-1.9,SWAC
-2024,South Dakota,-2.5,-5.8,Summit
-2024,Portland,-1.6,-7.0,WCC
-2024,Morgan St.,-4.5,-4.2,MEAC
-2024,Hampton,-4.1,-4.6,CAA
-2024,New Orleans,-4.4,-5.2,Southland
-2024,Incarnate Word,-5.0,-4.5,Southland
-2024,South Carolina St.,-4.6,-5.1,MEAC
-2024,North Carolina A&T,-4.3,-5.5,CAA
-2024,Manhattan,-7.1,-2.8,MAAC
-2024,Southern Indiana,-7.8,-2.1,OVC
-2024,Alcorn St.,-2.1,-8.0,SWAC
-2024,Central Arkansas,-5.0,-5.1,ASUN
-2024,Dartmouth,-9.1,-1.1,Ivy
-2024,Loyola MD,-7.0,-3.5,Patriot
-2024,Northwestern St.,-4.5,-6.0,Southland
-2024,Eastern Michigan,-5.7,-5.2,MAC
-2024,Tennessee Tech,-5.2,-5.7,OVC
-2024,Cal Poly,-8.8,-2.5,Big West
-2024,Maryland Eastern Shore,-9.4,-2.0,MEAC
-2024,Holy Cross,-4.3,-7.8,Patriot
-2024,Northern Arizona,-6.7,-5.4,Big Sky
-2024,Buffalo,-7.0,-5.2,MAC
-2024,Stonehill,-8.2,-4.0,NEC
-2024,Alabama A&M,-7.3,-5.0,SWAC
-2024,Lindenwood,-7.0,-5.4,OVC
-2024,Southeast Missouri St.,-9.0,-3.7,OVC
-2024,Houston Christian,-7.8,-5.0,Southland
-2024,VMI,-7.8,-5.0,Southern
-2024,Saint Francis,-7.3,-5.6,NEC
-2024,LIU,-7.9,-5.2,NEC
-2024,Florida A&M,-6.8,-6.7,SWAC
-2024,Detroit Mercy,-7.4,-6.5,Horizon
-2024,Siena,-10.2,-4.1,MAAC
-2024,Pacific,-8.2,-6.3,WCC
-2024,Coppin St.,-13.1,-2.1,MEAC
-2024,IUPUI,-8.8,-8.1,Horizon
-2024,Mississippi Valley St.,-13.1,-8.6,SWAC
+2024,Michigan,3.9,-0.1,Big Ten
+2024,Charleston,3.9,-0.3,CAA
+2024,Oklahoma St.,1.0,2.6,Big 12
+2024,Southern Illinois,2.1,1.5,MVC
+2024,UMass Lowell,1.2,2.2,Am. East
+2024,Toledo,5.3,-2.2,MAC
+2024,Eastern Washington,3.7,-0.6,Big Sky
+2024,California,1.9,1.1,Pac-12
+2024,Santa Clara,2.6,0.3,WCC
+2024,Tulane,3.7,-0.9,American
+2024,Winthrop,2.4,0.3,Big South
+2024,Troy,0.2,2.5,Sun Belt
+2024,Oakland,3.3,-0.6,Horizon
+2024,Arkansas,1.5,1.3,SEC
+2024,UC San Diego,3.3,-0.6,Big West
+2024,Youngstown St.,2.1,0.4,Horizon
+2024,UAB,2.1,0.4,American
+2024,Chattanooga,3.0,-0.6,Southern
+2024,Delaware,1.3,1.0,CAA
+2024,Davidson,0.9,1.4,A-10
+2024,Missouri,1.7,0.5,SEC
+2024,Northern Iowa,2.0,0.3,MVC
+2024,Louisiana,1.2,1.0,Sun Belt
+2024,Towson,-0.5,2.6,CAA
+2024,Arizona St.,-1.1,3.1,Pac-12
+2024,UNC Greensboro,2.0,-0.1,Southern
+2024,UNC Asheville,2.0,-0.1,Big South
+2024,Murray St.,1.5,0.3,MVC
+2024,Ohio,3.2,-1.5,MAC
+2024,Weber St.,1.8,-0.2,Big Sky
+2024,Georgia Tech,0.4,1.2,ACC
+2024,Kent St.,1.5,-0.1,MAC
+2024,St. Thomas,2.4,-1.1,Summit
+2024,Western Carolina,0.6,0.7,Southern
+2024,Wichita St.,-0.5,1.7,American
+2024,West Virginia,0.2,0.7,Big 12
+2024,Purdue Fort Wayne,-0.1,1.0,Horizon
+2024,Arkansas St.,4.1,-3.2,Sun Belt
+2024,Missouri St.,-0.7,1.5,MVC
+2024,Iona,0.6,0.2,MAAC
+2024,Quinnipiac,0.6,0.1,MAAC
+2024,Lipscomb,4.3,-3.6,ASUN
+2024,Bryant,-1.4,2.0,Am. East
+2024,Wright St.,6.2,-5.7,Horizon
+2024,Longwood,-0.6,0.9,Big South
+2024,Notre Dame,-4.1,4.4,ACC
+2024,Stephen F. Austin,-1.9,2.0,WAC
+2024,Belmont,1.5,-1.4,MVC
+2024,Long Beach St.,0.6,-0.6,Big West
+2024,Eastern Kentucky,1.7,-1.6,ASUN
+2024,Tarleton St.,-0.4,0.4,WAC
+2024,Columbia,0.9,-0.9,Ivy
+2024,Western Kentucky,-1.7,1.7,CUSA
+2024,Stetson,3.2,-3.2,ASUN
+2024,Fairfield,0.8,-0.9,MAAC
+2024,New Hampshire,-2.4,2.3,Am. East
+2024,UT Arlington,-1.5,1.4,WAC
+2024,Texas A&M Corpus Chris,-3.2,2.9,Southland
+2024,East Carolina,-1.2,0.8,American
+2024,Jacksonville St.,-2.2,1.6,CUSA
+2024,Penn,1.7,-2.3,Ivy
+2024,Georgia St.,0.2,-0.8,Sun Belt
+2024,Cleveland St.,0.9,-1.6,Horizon
+2024,South Dakota St.,1.1,-1.9,Summit
+2024,Marist,-3.6,2.8,MAAC
+2024,Furman,0.4,-1.4,Southern
+2024,Illinois Chicago,-3.3,2.0,MVC
+2024,Monmouth,-0.2,-1.2,CAA
+2024,Loyola Marymount,1.5,-2.9,WCC
+2024,Rhode Island,1.0,-2.4,A-10
+2024,Maine,-3.4,2.0,Am. East
+2024,Austin Peay,0.8,-2.2,ASUN
+2024,Harvard,-2.0,0.6,Ivy
+2024,Hawaii,-0.8,-0.7,Big West
+2024,Sam Houston St.,-2.8,1.2,CUSA
+2024,Gardner Webb,-2.3,0.7,Big South
+2024,Georgetown,1.6,-3.1,Big East
+2024,Stony Brook,-0.3,-1.4,CAA
+2024,Tulsa,-2.6,1.0,American
+2024,Norfolk St.,-1.5,-0.2,MEAC
+2024,Fordham,-3.0,1.1,A-10
+2024,UC Davis,-3.9,2.1,Big West
+2024,UC Santa Barbara,1.0,-2.8,Big West
+2024,Oregon St.,-1.8,-0.1,Pac-12
+2024,Montana,1.8,-3.7,Big Sky
+2024,Northern Kentucky,-2.0,0.1,Horizon
+2024,Southern,-3.5,1.5,SWAC
+2024,Louisville,0.4,-2.3,ACC
+2024,Merrimack,-5.2,3.2,NEC
+2024,Radford,0.4,-2.5,Big South
+2024,Vanderbilt,-1.2,-0.9,SEC
+2024,Illinois St.,-3.1,1.0,MVC
+2024,North Florida,1.9,-4.1,ASUN
+2024,Evansville,-2.3,0.1,MVC
+2024,La Salle,-0.3,-1.9,A-10
+2024,Marshall,-2.3,0.1,Sun Belt
+2024,Mount St. Mary's,-2.5,0.2,MAAC
+2024,Rice,0.7,-3.1,American
+2024,San Jose St.,1.2,-3.7,Mountain West
+2024,North Carolina Central,-2.6,0.1,MEAC
+2024,Northeastern,1.0,-3.7,CAA
+2024,UTEP,-4.0,1.4,CUSA
+2024,East Tennessee St.,-3.0,0.4,Southern
+2024,Saint Louis,1.5,-4.2,A-10
+2024,Central Connecticut,-2.8,0.1,NEC
+2024,Kennesaw St.,-0.8,-2.0,ASUN
+2024,Brown,-2.5,-0.3,Ivy
+2024,Wofford,1.1,-3.8,Southern
+2024,Fresno St.,-0.7,-2.1,Mountain West
+2024,Temple,-2.1,-0.6,American
+2024,North Alabama,0.1,-2.9,ASUN
+2024,Bowling Green,-2.0,-0.8,MAC
+2024,Utah Valley,-4.6,1.7,WAC
+2024,Cal Baptist,-2.4,-0.5,WAC
+2024,Little Rock,-0.3,-2.6,OVC
+2024,Niagara,0.3,-3.3,MAAC
+2024,Green Bay,-1.7,-1.3,Horizon
+2024,Miami OH,-1.9,-1.2,MAC
+2024,Lamar,-0.5,-2.6,Southland
+2024,Texas St.,-3.8,0.7,Sun Belt
+2024,Southern Miss,-3.4,0.3,Sun Belt
+2024,Albany,-1.4,-1.7,Am. East
+2024,North Dakota,-0.6,-2.6,Summit
+2024,Saint Peter's,-5.3,2.0,MAAC
+2024,Cal St. Northridge,-3.6,0.2,Big West
+2024,Ball St.,-0.9,-2.5,MAC
+2024,Florida Gulf Coast,-0.4,-3.0,ASUN
+2024,Cal St. Fullerton,-3.2,-0.3,Big West
+2024,George Washington,-1.1,-2.6,A-10
+2024,Portland St.,-3.6,-0.1,Big Sky
+2024,Western Illinois,-4.8,1.1,OVC
+2024,Binghamton,-2.3,-1.4,Am. East
+2024,Abilene Christian,-3.2,-0.7,WAC
+2024,Milwaukee,-0.3,-3.6,Horizon
+2024,Tennessee Martin,-1.6,-2.3,OVC
+2024,North Dakota St.,0.0,-4.0,Summit
+2024,UMKC,-3.1,-0.9,Summit
+2024,UC Riverside,-2.4,-1.7,Big West
+2024,American,0.3,-4.5,Patriot
+2024,Pepperdine,-0.5,-3.8,WCC
+2024,Howard,-0.4,-3.9,MEAC
+2024,Northern Colorado,0.8,-5.1,Big Sky
+2024,Queens,0.3,-4.6,ASUN
+2024,Rider,-2.0,-2.5,MAAC
+2024,Oral Roberts,-0.7,-4.0,Summit
+2024,Canisius,-2.7,-2.0,MAAC
+2024,Jackson St.,-3.7,-1.2,SWAC
+2024,Central Michigan,-5.3,0.3,MAC
+2024,Old Dominion,-4.3,-0.7,Sun Belt
+2024,Lehigh,-4.1,-0.9,Patriot
+2024,FIU,-3.0,-2.0,CUSA
+2024,Nebraska Omaha,-0.5,-4.6,Summit
+2024,SIU Edwardsville,-2.7,-2.4,OVC
+2024,Southeastern Louisiana,-2.5,-2.7,Southland
+2024,Jacksonville,-4.7,-0.6,ASUN
+2024,Cal St. Bakersfield,-4.2,-1.2,Big West
+2024,The Citadel,-2.7,-2.7,Southern
+2024,Sacred Heart,-2.9,-2.6,NEC
+2024,Presbyterian,-1.4,-4.1,Big South
+2024,Robert Morris,-1.8,-3.7,Horizon
+2024,Middle Tennessee,-5.7,0.1,CUSA
+2024,Mercer,-4.3,-1.3,Southern
+2024,Texas Southern,-5.5,-0.2,SWAC
+2024,Wyoming,-1.6,-4.2,Mountain West
+2024,UMBC,-0.6,-5.2,Am. East
+2024,Tennessee St.,-4.3,-1.5,OVC
+2024,Wagner,-5.4,-0.5,NEC
+2024,Campbell,-3.4,-2.6,CAA
+2024,San Diego,-3.8,-2.2,WCC
+2024,New Mexico St.,-4.4,-1.6,CUSA
+2024,Idaho St.,-2.9,-3.1,Big Sky
+2024,UTSA,0.3,-6.3,American
+2024,Chicago St.,-4.3,-1.7,Indep.
+2024,South Alabama,-2.5,-3.7,Sun Belt
+2024,Elon,-0.3,-5.9,CAA
+2024,Nicholls St.,-3.8,-2.4,Southland
+2024,Bucknell,-4.1,-2.2,Patriot
+2024,Eastern Illinois,-5.8,-0.6,OVC
+2024,Boston University,-5.9,-0.6,Patriot
+2024,Northern Illinois,-2.8,-3.8,MAC
+2024,Delaware St.,-6.2,-0.6,MEAC
+2024,Lafayette,-6.9,0.1,Patriot
+2024,Georgia Southern,-2.4,-4.4,Sun Belt
+2024,Denver,0.5,-7.5,Summit
+2024,Louisiana Monroe,-3.7,-3.4,Sun Belt
+2024,Utah Tech,-5.3,-1.7,WAC
+2024,Fairleigh Dickinson,-2.8,-4.4,NEC
+2024,Southern Utah,-2.2,-5.0,WAC
+2024,William & Mary,-2.9,-4.3,CAA
+2024,Alabama St.,-7.9,0.6,SWAC
+2024,Navy,-5.3,-2.0,Patriot
+2024,DePaul,-3.3,-4.0,Big East
+2024,Bellarmine,-3.4,-3.9,ASUN
+2024,Montana St.,-3.4,-4.1,Big Sky
+2024,Army,-8.0,0.5,Patriot
+2024,Valparaiso,-4.8,-2.7,MVC
+2024,Western Michigan,-3.4,-4.1,MAC
+2024,Coastal Carolina,-2.8,-4.8,Sun Belt
+2024,Bethune Cookman,-4.9,-3.0,SWAC
+2024,Grambling St.,-5.5,-2.5,SWAC
+2024,Sacramento St.,-4.2,-3.8,Big Sky
+2024,Idaho,-3.7,-4.3,Big Sky
+2024,South Dakota,-1.7,-6.4,Summit
+2024,Texas A&M Commerce,-5.3,-3.0,Southland
+2024,Arkansas Pine Bluff,-1.3,-7.0,SWAC
+2024,Prairie View A&M,-6.3,-2.2,SWAC
+2024,NJIT,-5.0,-3.5,Am. East
+2024,Air Force,-2.8,-5.8,Mountain West
+2024,Charleston Southern,-4.4,-4.3,Big South
+2024,Alcorn St.,-2.2,-6.5,SWAC
+2024,South Carolina St.,-4.4,-4.3,MEAC
+2024,UT Rio Grande Valley,-5.4,-3.4,WAC
+2024,Morgan St.,-4.9,-3.9,MEAC
+2024,Hampton,-4.2,-4.9,CAA
+2024,Portland,-2.5,-6.7,WCC
+2024,Northwestern St.,-4.8,-5.1,Southland
+2024,Loyola MD,-6.2,-3.8,Patriot
+2024,Manhattan,-7.0,-3.1,MAAC
+2024,Dartmouth,-8.8,-1.4,Ivy
+2024,Southern Indiana,-7.5,-2.6,OVC
+2024,Central Arkansas,-5.3,-5.0,ASUN
+2024,Incarnate Word,-5.4,-4.9,Southland
+2024,New Orleans,-4.8,-5.8,Southland
+2024,Eastern Michigan,-5.3,-5.3,MAC
+2024,Tennessee Tech,-5.9,-4.9,OVC
+2024,North Carolina A&T,-5.6,-5.3,CAA
+2024,Maryland Eastern Shore,-9.5,-1.6,MEAC
+2024,Alabama A&M,-7.6,-3.8,SWAC
+2024,Buffalo,-6.8,-4.9,MAC
+2024,Cal Poly,-9.7,-2.4,Big West
+2024,LIU,-7.6,-4.6,NEC
+2024,Northern Arizona,-6.8,-5.7,Big Sky
+2024,Southeast Missouri St.,-8.0,-4.6,OVC
+2024,Holy Cross,-5.3,-7.4,Patriot
+2024,Saint Francis,-7.4,-5.6,NEC
+2024,Stonehill,-8.6,-4.5,NEC
+2024,Houston Christian,-7.7,-5.8,Southland
+2024,VMI,-8.8,-4.8,Southern
+2024,Lindenwood,-8.5,-5.1,OVC
+2024,Detroit Mercy,-6.6,-7.0,Horizon
+2024,Florida A&M,-7.7,-6.3,SWAC
+2024,Pacific,-7.8,-6.9,WCC
+2024,Siena,-10.6,-4.1,MAAC
+2024,Coppin St.,-13.5,-2.1,MEAC
+2024,IUPUI,-9.2,-9.3,Horizon
+2024,Mississippi Valley St.,-13.5,-9.0,SWAC
