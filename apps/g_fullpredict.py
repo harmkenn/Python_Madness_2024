@@ -72,8 +72,6 @@ def app():
         #Predict Round 2
         BBstats = BB[BB['Round']==2].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
         BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
-        
-        st.write(BBstats)
 
         pfs = LRF.predict(BBstats[xcol])
         pus = RFU.predict(BBstats[xcol])
