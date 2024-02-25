@@ -27,7 +27,7 @@ def app():
         fupn = fup.select_dtypes(exclude=['object'])
         MX = fupn[fupn['Year']!=py].drop(['AFScore','AUScore','AFSeed','AUSeed','PFScore','PUScore','Fti','Uti'],axis=1)
         xcol = MX.columns
-        
+
         MFY = fupn[fupn['Year']!=py]['PFScore']
         MUY = fupn[fupn['Year']!=py]['PUScore']
         LRF = LinearRegression()
@@ -73,7 +73,8 @@ def app():
         BBstats = BB[BB['Round']==2].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
         BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
         
-        
+        st.write(BBstats)
+
         pfs = LRF.predict(BBstats[xcol])
         pus = RFU.predict(BBstats[xcol])
         
