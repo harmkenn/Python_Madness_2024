@@ -1,4 +1,4 @@
-﻿Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
+Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 1985,1,NW,1,1,St. John's,83,16,Southern,59,1.0,2.0
 1985,1,NW,2,8,Iowa,54,9,Arkansas,63,3.0,4.0
 1985,1,NW,3,5,Washington,58,12,Kentucky,66,5.0,6.0
@@ -2487,4 +2487,3 @@
 2024,1,SE,30,3,Auburn,72,14,Akron,72,59.0,60.0
 2024,1,SE,31,7,Oklahoma,72,10,New Mexico,72,61.0,62.0
 2024,1,SE,32,2,Marquette,72,15,Oakland,72,63.0,64.0
-
