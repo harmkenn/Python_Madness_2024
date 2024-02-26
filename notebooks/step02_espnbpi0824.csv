@@ -655,7 +655,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2009,Fordham,-5.1,-5.7,A-10
 2009,Northwestern St.,-1.1,-9.9,Southland
 2009,SIU Edwardsville,-3.0,-8.2,Indep.
-2009,Bryant,-9.7,-1.5,Indep.
 2009,Mississippi Valley St.,-4.7,-7.2,SWAC
 2009,North Dakota,-4.4,-7.6,Indep.
 2009,Fairleigh Dickinson,-3.5,-8.5,NEC
@@ -1014,7 +1013,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2010,Grambling St.,-7.3,-7.7,SWAC
 2010,North Dakota,-8.2,-6.9,Summit
 2010,Southern,-9.5,-7.6,SWAC
-2010,Bryant,-15.3,-2.9,NEC
 2010,Alcorn St.,-7.3,-13.6,SWAC
 2011,Ohio St.,11.4,10.4,Big Ten
 2011,Kansas,13.3,6.5,Big 12
@@ -1327,7 +1325,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2011,Texas A&M Corpus Chris,-6.8,-2.8,Southland
 2011,Longwood,3.1,-12.8,Indep.
 2011,Cal St. Bakersfield,-2.4,-7.5,Indep.
-2011,Bryant,-3.5,-6.6,NEC
 2011,Kennesaw St.,-3.8,-6.4,ASUN
 2011,Binghamton,-7.3,-2.9,Am. East
 2011,Sacramento St.,-7.6,-2.8,Big Sky
@@ -1690,7 +1687,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2012,Tennessee Martin,-6.1,-8.1,OVC
 2012,Longwood,1.3,-15.9,Indep.
 2012,Towson,-13.6,-1.3,CAA
-2012,Bryant,-6.2,-8.7,NEC
 2012,UMBC,-4.8,-10.2,Am. East
 2012,South Carolina St.,-5.1,-10.4,MEAC
 2012,Chicago St.,-6.7,-9.0,Indep.
@@ -1864,7 +1860,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2013,Houston,7.9,-7.9,CUSA
 2013,Loyola Chicago,-2.9,2.9,Horizon
 2013,Delaware,2.6,-2.7,CAA
-2013,Bryant,3.8,-4.0,NEC
 2013,San Francisco,1.3,-1.6,WCC
 2013,Georgia St.,-0.1,-0.2,CAA
 2013,Southern Illinois,-2.8,2.4,MVC
@@ -2252,7 +2247,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2014,VMI,10.2,-12.5,Big South
 2014,South Florida,-2.5,0.2,American
 2014,Gardner Webb,-1.5,-1.0,Big South
-2014,Bryant,0.9,-3.4,NEC
 2014,Northern Illinois,-8.1,5.6,MAC
 2014,UT Arlington,4.1,-6.6,Sun Belt
 2014,Cal St. Northridge,5.2,-8.0,Big West
@@ -2614,7 +2608,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2015,UNC Asheville,1.3,-4.3,Big South
 2015,Southern Illinois,-5.7,2.7,MVC
 2015,Idaho,5.0,-8.1,Big Sky
-2015,Bryant,-1.4,-1.8,NEC
 2015,Towson,-3.6,0.3,CAA
 2015,Hawaii,3.1,-6.5,Big West
 2015,Eastern Illinois,-4.7,1.3,OVC
@@ -3073,7 +3066,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2016,Grambling St.,-12.0,-0.7,SWAC
 2016,UTSA,-2.1,-10.9,CUSA
 2016,Chicago St.,-6.7,-6.5,WAC
-2016,Bryant,-7.8,-5.4,NEC
 2016,Arkansas Pine Bluff,-13.9,0.3,SWAC
 2016,Mississippi Valley St.,-6.3,-7.5,SWAC
 2016,Delaware St.,-11.2,-3.9,MEAC
@@ -3356,7 +3348,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2017,UMass Lowell,-0.0,-6.0,Am. East
 2017,Sacramento St.,-1.8,-4.3,Big Sky
 2017,Oregon St.,-5.0,-1.2,Pac-12
-2017,Bryant,-1.4,-4.8,NEC
 2017,Miami OH,-5.8,-0.4,MAC
 2017,Manhattan,-4.8,-1.5,MAAC
 2017,Quinnipiac,-2.3,-3.9,MAAC
@@ -3762,7 +3753,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2018,Jackson St.,-10.0,-1.9,SWAC
 2018,Alcorn St.,-6.8,-5.5,SWAC
 2018,Alabama St.,-7.1,-6.1,SWAC
-2018,Bryant,-4.3,-9.0,NEC
 2018,Florida A&M,-6.6,-6.9,MEAC
 2018,Longwood,-9.7,-4.0,Big South
 2018,Northern Arizona,-8.9,-5.1,Big Sky
@@ -4094,7 +4084,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2019,Alabama St.,-6.1,-3.2,SWAC
 2019,Mount St. Mary's,-6.1,-3.4,NEC
 2019,Denver,-2.9,-6.6,Summit
-2019,Bryant,-3.3,-6.4,NEC
 2019,Jackson St.,-9.4,-0.3,SWAC
 2019,Florida A&M,-8.9,-0.8,MEAC
 2019,Binghamton,-4.8,-5.0,Am. East
@@ -4349,7 +4338,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2020,Florida Atlantic,-2.5,-0.5,CUSA
 2020,New Hampshire,-4.1,1.0,Am. East
 2020,UC Davis,1.1,-4.1,Big West
-2020,Bryant,-2.4,-0.7,NEC
 2020,VMI,-1.1,-2.2,Southern
 2020,Rice,0.7,-4.1,CUSA
 2020,UTSA,0.3,-3.8,CUSA
@@ -4627,7 +4615,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2021,George Mason,-0.9,1.5,A-10
 2021,Boston College,1.5,-0.9,ACC
 2021,Santa Clara,-1.2,1.6,WCC
-2021,Bryant,1.2,-0.8,NEC
 2021,Pacific,-0.6,1.0,WCC
 2021,Morehead St.,-1.7,2.1,OVC
 2021,Bellarmine,3.3,-3.1,ASUN
@@ -4988,7 +4975,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2022,Saint Joseph's,-1.2,1.3,A-10
 2022,Stephen F. Austin,-1.6,1.6,WAC
 2022,UMKC,-0.7,0.6,Summit
-2022,Bryant,0.6,-0.7,NEC
 2022,Cleveland St.,0.6,-0.8,Horizon
 2022,East Carolina,-0.4,0.0,American
 2022,UTEP,-1.0,0.6,CUSA
@@ -5327,7 +5313,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2023,Longwood,0.9,0.1,Big South
 2023,Eastern Kentucky,0.6,0.4,ASUN
 2023,South Florida,0.3,0.6,American
-2023,Bryant,0.9,-0.0,Am. East
 2023,Notre Dame,3.2,-2.4,ACC
 2023,Davidson,1.2,-0.4,A-10
 2023,Gardner Webb,-2.5,3.2,Big South
@@ -5692,7 +5677,6 @@ Year,Team,BPI(O),BPI(D),Conf
 2024,Fairfield,1.7,-1.3,MAAC
 2024,Longwood,-0.0,0.4,Big South
 2024,Iona,0.1,0.3,MAAC
-2024,Bryant,-2.0,2.3,Am. East
 2024,Furman,1.1,-0.9,Southern
 2024,Texas A&M Corpus Chris,-3.2,3.3,Southland
 2024,Missouri St.,-0.9,1.0,MVC
