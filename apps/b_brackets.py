@@ -7,6 +7,11 @@ def app():
     # title of the app
     st.markdown('All Tournament Brackets Since 1985')
     AG = pd.read_csv('notebooks/step04_FUHistory.csv')
+
+    AG['AFSeed'] = pd.to_numeric(AG['AFSeed'], errors='coerce').astype('Int32')
+    AG['AFScore'] = pd.to_numeric(AG['AFScore'], errors='coerce').astype('Int32')
+    AG['AUSeed'] = pd.to_numeric(AG['AUSeed'], errors='coerce').astype('Int32')
+    AG['AUScore'] = pd.to_numeric(AG['AUScore'], errors='coerce').astype('Int32')
     p_year = st.slider('Year: ', 1985,2023)
     if p_year == 2020:
         st.markdown("No Bracket in 2020")

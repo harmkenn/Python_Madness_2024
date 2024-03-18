@@ -9,6 +9,8 @@ def app():
     st.markdown('Predicting ' + str(py))
         
     fup = pd.read_csv("notebooks/step07_FUStats.csv").fillna(0)
+    fup['Year'] = pd.to_numeric(fup['Year'], errors='coerce').astype('Int32')
+    
     fup = fup[fup['Game']>=1]
     fup['Round'] = fup['Round'].astype('int32')
     fup['PFSeed']=fup['AFSeed']
@@ -22,6 +24,7 @@ def app():
     
     # Build the linear model
     fupn = fup.select_dtypes(exclude=['object'])
+    
     MX = fupn[fupn['Year']<=py].drop(['PFScore','PUScore'],axis=1)
     xcol = MX.columns
     MFY = fupn[fupn['Year']<=py]['PFScore']
@@ -33,6 +36,7 @@ def app():
     
     BB = pd.read_csv('notebooks/step04_FUHistory.csv')
     BB = BB[BB['Year']==py][BB['Game']>=1][BB['Game']<=32]
+    
     BB['Round']=BB['Round'].astype('int32')
     BB.index = BB.Game
     BB = BB.iloc[:,0:10]
@@ -40,12 +44,16 @@ def app():
     BB.columns = BBcol
 
     KBBP = pd.read_csv("notebooks/step06_AllStats.csv").fillna(0)
+    KBBP = KBBP[KBBP['Year']==py]
+    BB['Year'] = pd.to_numeric(BB['Year'], errors='coerce').astype('Int64')
+
     # Predict Round 1
     BBstats = BB.merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
+    
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
         
     r1p = BBstats
-    
+
     pfs = LRF.predict(r1p[xcol]) + np.random.rand(32)*12-5
     pus = RFU.predict(r1p[xcol]) 
     
