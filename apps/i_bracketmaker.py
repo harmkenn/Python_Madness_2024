@@ -17,16 +17,11 @@ def app():
     fup['PUSeed']=fup['AUSeed']
     fup['PUTeam']=fup['AUTeam']
     fup['PUScore']=fup['AUScore']
-    fup['Year']=pd.to_numeric(fup['Year'], errors='coerce').astype('Int32')
-
     fup = fup.drop(['AFSeed','AFTeam','AFScore','AUSeed','AUTeam','AUScore','Fti','Uti'],axis=1)
     
     
     # Build the linear model
-
     fupn = fup.select_dtypes(exclude=['object'])
-
-   
     MX = fupn[fupn['Year']<=py].drop(['PFScore','PUScore'],axis=1)
     xcol = MX.columns
     MFY = fupn[fupn['Year']<=py]['PFScore']
@@ -38,7 +33,6 @@ def app():
     
     BB = pd.read_csv('notebooks/step04_FUHistory.csv')
     BB = BB[BB['Year']==py][BB['Game']>=1][BB['Game']<=32]
-    
     BB['Round']=BB['Round'].astype('int32')
     BB.index = BB.Game
     BB = BB.iloc[:,0:10]
@@ -46,18 +40,13 @@ def app():
     BB.columns = BBcol
 
     KBBP = pd.read_csv("notebooks/step06_AllStats.csv").fillna(0)
-    KBBP['Year'] = pd.to_numeric(KBBP['Year'], errors='coerce').astype('Int32')
-    st.write(BB.dtypes)
-    st.write(KBBP.dtypes)
     # Predict Round 1
     BBstats = BB.merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
         
     r1p = BBstats
-    st.write(r1p)
-    pfs = LRF.predict(r1p[xcol])
-    st.write(len(pfs))
-    st.write(pfs + np.random.uniform(-4.5, 7.5, size=32))
+    
+    pfs = LRF.predict(r1p[xcol]) + np.random.rand(32)*12-5
     pus = RFU.predict(r1p[xcol]) 
     
 
@@ -81,7 +70,7 @@ def app():
     BBstats = BB[BB['Round']==2].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol])
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(16)*12-5
     pus = RFU.predict(BBstats[xcol])  
     for x in range(33,49):
         BB.loc[x,'PFScore']=pfs[x-33]
@@ -102,7 +91,7 @@ def app():
     BBstats = BB[BB['Round']==3].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol])
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(8)*12-5
     pus = RFU.predict(BBstats[xcol])  
     for x in range(49,57):
         BB.loc[x,'PFScore']=pfs[x-49]
@@ -123,7 +112,7 @@ def app():
     BBstats = BB[BB['Round']==4].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol])
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(4)*12-5
     pus = RFU.predict(BBstats[xcol])  
     for x in range(57,61):
         BB.loc[x,'PFScore']=pfs[x-57]
@@ -145,7 +134,7 @@ def app():
     BBstats = BB[BB['Round']==5].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol])
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(2)*12-5
     pus = RFU.predict(BBstats[xcol])  
     for x in range(61,63):
         BB.loc[x,'PFScore']=pfs[x-61]
@@ -166,7 +155,7 @@ def app():
     BBstats = BB[BB['Round']==6].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol])
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand()*12-5
     pus = RFU.predict(BBstats[xcol])  
     for x in range(63,64):
         BB.loc[x,'PFScore']=pfs[x-63]
