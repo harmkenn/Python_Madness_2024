@@ -17,11 +17,14 @@ def app():
     fup['PUSeed']=fup['AUSeed']
     fup['PUTeam']=fup['AUTeam']
     fup['PUScore']=fup['AUScore']
+
     fup = fup.drop(['AFSeed','AFTeam','AFScore','AUSeed','AUTeam','AUScore','Fti','Uti'],axis=1)
     
     
     # Build the linear model
     fupn = fup.select_dtypes(exclude=['object'])
+
+    st.write(fupn)
     MX = fupn[fupn['Year']<=py].drop(['PFScore','PUScore'],axis=1)
     xcol = MX.columns
     MFY = fupn[fupn['Year']<=py]['PFScore']
@@ -40,6 +43,7 @@ def app():
     BB.columns = BBcol
 
     KBBP = pd.read_csv("notebooks/step06_AllStats.csv").fillna(0)
+    st.write(KBBP.dtypes)
     # Predict Round 1
     BBstats = BB.merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
